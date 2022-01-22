@@ -1,2 +1,2 @@
-for (int i=0;)
+for (int i=0;arr[i]!=)
     {}
